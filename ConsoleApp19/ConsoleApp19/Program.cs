@@ -10,6 +10,7 @@ namespace ConsoleApp19
     {
         static void Main(string[] args)
         {
+            string kurva;
         }
     }
 }
